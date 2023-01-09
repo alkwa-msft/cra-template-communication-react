@@ -1,6 +1,6 @@
 {
   "name": "cra-template-communication-react",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "license": "MIT",
   "description": "Boilerplate set up to use Azure Communication Services UI Library.",
   "main": "template.json",
