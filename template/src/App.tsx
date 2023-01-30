@@ -1,22 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
+import hero from './hero.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={hero} className="App-hero" alt="hero image" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Get started with Azure Communication Services UI Library.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href=".ms/acsstorybook"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Storybook
         </a>
       </header>
     </div>
