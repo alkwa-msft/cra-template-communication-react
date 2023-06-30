@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={hero} className="App-hero" alt="hero image" />
+        <img src={hero} className="App-hero" alt="hero" />
         <p>
           Get started with Azure Communication Services UI Library.
         </p>
