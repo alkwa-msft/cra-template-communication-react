@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href=".ms/acsstorybook"
+          href="https://aka.ms/acsstorybook"
           target="_blank"
           rel="noopener noreferrer"
         >
